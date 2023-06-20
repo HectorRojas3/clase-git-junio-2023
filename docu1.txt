@@ -1,2 +1,4 @@
 Hola clase
 Aprendiendo a usar git
+Cada cambio se debe agregar usando el comando git add + el nombre del documento
+Cuado se quiere agregar cambios a una serie de documentos se usa el comando git add + .
