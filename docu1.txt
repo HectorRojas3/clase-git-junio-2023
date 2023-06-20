@@ -1,1 +1,2 @@
 Hola clase
+Aprendiendo a usar git
